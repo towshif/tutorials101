@@ -1,0 +1,11 @@
+/workspace/tutorials101/helloworld-intro/helloworld-cs/bin/Debug/netcoreapp2.1/helloworld-cs.deps.json
+/workspace/tutorials101/helloworld-intro/helloworld-cs/bin/Debug/netcoreapp2.1/helloworld-cs.runtimeconfig.json
+/workspace/tutorials101/helloworld-intro/helloworld-cs/bin/Debug/netcoreapp2.1/helloworld-cs.runtimeconfig.dev.json
+/workspace/tutorials101/helloworld-intro/helloworld-cs/bin/Debug/netcoreapp2.1/helloworld-cs.dll
+/workspace/tutorials101/helloworld-intro/helloworld-cs/bin/Debug/netcoreapp2.1/helloworld-cs.pdb
+/workspace/tutorials101/helloworld-intro/helloworld-cs/obj/Debug/netcoreapp2.1/helloworld-cs.csprojAssemblyReference.cache
+/workspace/tutorials101/helloworld-intro/helloworld-cs/obj/Debug/netcoreapp2.1/helloworld-cs.csproj.CoreCompileInputs.cache
+/workspace/tutorials101/helloworld-intro/helloworld-cs/obj/Debug/netcoreapp2.1/helloworld-cs.AssemblyInfoInputs.cache
+/workspace/tutorials101/helloworld-intro/helloworld-cs/obj/Debug/netcoreapp2.1/helloworld-cs.AssemblyInfo.cs
+/workspace/tutorials101/helloworld-intro/helloworld-cs/obj/Debug/netcoreapp2.1/helloworld-cs.dll
+/workspace/tutorials101/helloworld-intro/helloworld-cs/obj/Debug/netcoreapp2.1/helloworld-cs.pdb
