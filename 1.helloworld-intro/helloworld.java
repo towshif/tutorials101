@@ -5,7 +5,7 @@ public class helloworld {
 		System.out.print ( "Hello World!");
 		System.out.print ( "\n");
 		System.out.println ( "Add 5 + 2 = " + addme (5,2));
-		System.out.println ( "mult 5 + 2 = " + multme (5,2));
+		System.out.println ( "multiply 5 + 2 = " + multme (5,2));
 		System.out.println ( "divide 5 + 2 = " + divideme(5,2));
 
 
